@@ -49,10 +49,7 @@ In this experiment:
 
 5. **Run Simulation**  
    - Use the “Run” button (EDA Playground) or command:
-     ```
-     run 500ns
-    ```
-
+     
 6. **Analyze Waveforms and Console Output**  
    - Observe whether assertions pass or fail.  
    - Verify proper handshaking between master and slave.
